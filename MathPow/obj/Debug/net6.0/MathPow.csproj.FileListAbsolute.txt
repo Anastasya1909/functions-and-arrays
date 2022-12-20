@@ -1,0 +1,15 @@
+C:\Users\79618\Desktop\lesson 2  functions and arrays\MathPow\bin\Debug\net6.0\MathPow.exe
+C:\Users\79618\Desktop\lesson 2  functions and arrays\MathPow\bin\Debug\net6.0\MathPow.deps.json
+C:\Users\79618\Desktop\lesson 2  functions and arrays\MathPow\bin\Debug\net6.0\MathPow.runtimeconfig.json
+C:\Users\79618\Desktop\lesson 2  functions and arrays\MathPow\bin\Debug\net6.0\MathPow.dll
+C:\Users\79618\Desktop\lesson 2  functions and arrays\MathPow\bin\Debug\net6.0\MathPow.pdb
+C:\Users\79618\Desktop\lesson 2  functions and arrays\MathPow\obj\Debug\net6.0\MathPow.csproj.AssemblyReference.cache
+C:\Users\79618\Desktop\lesson 2  functions and arrays\MathPow\obj\Debug\net6.0\MathPow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79618\Desktop\lesson 2  functions and arrays\MathPow\obj\Debug\net6.0\MathPow.AssemblyInfoInputs.cache
+C:\Users\79618\Desktop\lesson 2  functions and arrays\MathPow\obj\Debug\net6.0\MathPow.AssemblyInfo.cs
+C:\Users\79618\Desktop\lesson 2  functions and arrays\MathPow\obj\Debug\net6.0\MathPow.csproj.CoreCompileInputs.cache
+C:\Users\79618\Desktop\lesson 2  functions and arrays\MathPow\obj\Debug\net6.0\MathPow.dll
+C:\Users\79618\Desktop\lesson 2  functions and arrays\MathPow\obj\Debug\net6.0\refint\MathPow.dll
+C:\Users\79618\Desktop\lesson 2  functions and arrays\MathPow\obj\Debug\net6.0\MathPow.pdb
+C:\Users\79618\Desktop\lesson 2  functions and arrays\MathPow\obj\Debug\net6.0\MathPow.genruntimeconfig.cache
+C:\Users\79618\Desktop\lesson 2  functions and arrays\MathPow\obj\Debug\net6.0\ref\MathPow.dll
