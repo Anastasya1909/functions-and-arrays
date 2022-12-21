@@ -1,0 +1,15 @@
+C:\Users\79618\Desktop\lesson 2  functions and arrays\153\obj\Debug\net6.0\153.csproj.AssemblyReference.cache
+C:\Users\79618\Desktop\lesson 2  functions and arrays\153\obj\Debug\net6.0\153.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79618\Desktop\lesson 2  functions and arrays\153\obj\Debug\net6.0\153.AssemblyInfoInputs.cache
+C:\Users\79618\Desktop\lesson 2  functions and arrays\153\obj\Debug\net6.0\153.AssemblyInfo.cs
+C:\Users\79618\Desktop\lesson 2  functions and arrays\153\obj\Debug\net6.0\153.csproj.CoreCompileInputs.cache
+C:\Users\79618\Desktop\lesson 2  functions and arrays\153\bin\Debug\net6.0\153.exe
+C:\Users\79618\Desktop\lesson 2  functions and arrays\153\bin\Debug\net6.0\153.deps.json
+C:\Users\79618\Desktop\lesson 2  functions and arrays\153\bin\Debug\net6.0\153.runtimeconfig.json
+C:\Users\79618\Desktop\lesson 2  functions and arrays\153\bin\Debug\net6.0\153.dll
+C:\Users\79618\Desktop\lesson 2  functions and arrays\153\bin\Debug\net6.0\153.pdb
+C:\Users\79618\Desktop\lesson 2  functions and arrays\153\obj\Debug\net6.0\153.dll
+C:\Users\79618\Desktop\lesson 2  functions and arrays\153\obj\Debug\net6.0\refint\153.dll
+C:\Users\79618\Desktop\lesson 2  functions and arrays\153\obj\Debug\net6.0\153.pdb
+C:\Users\79618\Desktop\lesson 2  functions and arrays\153\obj\Debug\net6.0\153.genruntimeconfig.cache
+C:\Users\79618\Desktop\lesson 2  functions and arrays\153\obj\Debug\net6.0\ref\153.dll
