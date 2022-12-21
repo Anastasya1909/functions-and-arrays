@@ -1,0 +1,15 @@
+C:\Users\79618\Desktop\lesson 2  functions and arrays\Дз4\obj\Debug\net6.0\Дз4.csproj.AssemblyReference.cache
+C:\Users\79618\Desktop\lesson 2  functions and arrays\Дз4\obj\Debug\net6.0\Дз4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79618\Desktop\lesson 2  functions and arrays\Дз4\obj\Debug\net6.0\Дз4.AssemblyInfoInputs.cache
+C:\Users\79618\Desktop\lesson 2  functions and arrays\Дз4\obj\Debug\net6.0\Дз4.AssemblyInfo.cs
+C:\Users\79618\Desktop\lesson 2  functions and arrays\Дз4\obj\Debug\net6.0\Дз4.csproj.CoreCompileInputs.cache
+C:\Users\79618\Desktop\lesson 2  functions and arrays\Дз4\bin\Debug\net6.0\Дз4.exe
+C:\Users\79618\Desktop\lesson 2  functions and arrays\Дз4\bin\Debug\net6.0\Дз4.deps.json
+C:\Users\79618\Desktop\lesson 2  functions and arrays\Дз4\bin\Debug\net6.0\Дз4.runtimeconfig.json
+C:\Users\79618\Desktop\lesson 2  functions and arrays\Дз4\bin\Debug\net6.0\Дз4.dll
+C:\Users\79618\Desktop\lesson 2  functions and arrays\Дз4\bin\Debug\net6.0\Дз4.pdb
+C:\Users\79618\Desktop\lesson 2  functions and arrays\Дз4\obj\Debug\net6.0\Дз4.dll
+C:\Users\79618\Desktop\lesson 2  functions and arrays\Дз4\obj\Debug\net6.0\refint\Дз4.dll
+C:\Users\79618\Desktop\lesson 2  functions and arrays\Дз4\obj\Debug\net6.0\Дз4.pdb
+C:\Users\79618\Desktop\lesson 2  functions and arrays\Дз4\obj\Debug\net6.0\Дз4.genruntimeconfig.cache
+C:\Users\79618\Desktop\lesson 2  functions and arrays\Дз4\obj\Debug\net6.0\ref\Дз4.dll
