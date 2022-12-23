@@ -2,11 +2,11 @@
 
 int length = ReadInt ("Array length: ");
 int[] array = GetRandomArray(length, 0, 100);
-int sum = SumMaxAndMin(array);
+int Difference = DifferenceMaxAndMin(array);
 
 PrintArray(array);
 System.Console.WriteLine();
-System.Console.WriteLine(sum);
+System.Console.WriteLine(Difference);
 
 
 int ReadInt(string argument)
@@ -37,9 +37,9 @@ void PrintArray(int [] array)
 	}
 }
 
-int SumMaxAndMin(int [] array)
+int DifferenceMaxAndMin(int [] array)
 {
-    int sum = 0;
+    int Difference = 0;
     int max = array[0];
     int min = array[0];
 
@@ -50,6 +50,6 @@ int SumMaxAndMin(int [] array)
         if (array [i] < min )
         min = array [i];
     }
-    sum = max + min;
-    return sum;
+    Difference = max - min;
+    return Difference;
 }
