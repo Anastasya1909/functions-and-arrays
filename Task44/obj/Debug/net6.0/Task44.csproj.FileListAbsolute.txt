@@ -1,0 +1,15 @@
+C:\Users\79618\Desktop\lesson 2  functions and arrays\Task44\bin\Debug\net6.0\Task44.exe
+C:\Users\79618\Desktop\lesson 2  functions and arrays\Task44\bin\Debug\net6.0\Task44.deps.json
+C:\Users\79618\Desktop\lesson 2  functions and arrays\Task44\bin\Debug\net6.0\Task44.runtimeconfig.json
+C:\Users\79618\Desktop\lesson 2  functions and arrays\Task44\bin\Debug\net6.0\Task44.dll
+C:\Users\79618\Desktop\lesson 2  functions and arrays\Task44\bin\Debug\net6.0\Task44.pdb
+C:\Users\79618\Desktop\lesson 2  functions and arrays\Task44\obj\Debug\net6.0\Task44.csproj.AssemblyReference.cache
+C:\Users\79618\Desktop\lesson 2  functions and arrays\Task44\obj\Debug\net6.0\Task44.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79618\Desktop\lesson 2  functions and arrays\Task44\obj\Debug\net6.0\Task44.AssemblyInfoInputs.cache
+C:\Users\79618\Desktop\lesson 2  functions and arrays\Task44\obj\Debug\net6.0\Task44.AssemblyInfo.cs
+C:\Users\79618\Desktop\lesson 2  functions and arrays\Task44\obj\Debug\net6.0\Task44.csproj.CoreCompileInputs.cache
+C:\Users\79618\Desktop\lesson 2  functions and arrays\Task44\obj\Debug\net6.0\Task44.dll
+C:\Users\79618\Desktop\lesson 2  functions and arrays\Task44\obj\Debug\net6.0\refint\Task44.dll
+C:\Users\79618\Desktop\lesson 2  functions and arrays\Task44\obj\Debug\net6.0\Task44.pdb
+C:\Users\79618\Desktop\lesson 2  functions and arrays\Task44\obj\Debug\net6.0\Task44.genruntimeconfig.cache
+C:\Users\79618\Desktop\lesson 2  functions and arrays\Task44\obj\Debug\net6.0\ref\Task44.dll
