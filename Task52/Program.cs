@@ -43,16 +43,15 @@ void PrintArray (int[,] array)
 
 void ArithmeticMeanOfColumnElements(int[,] array)
 {
-    double sum = 0;
-    double a = 0;
-    for (int col = 0; col < secondLength; col++ )
+    double sum = 0;    
+    for (int j = 0; j < secondLength; j++ )
     {
         sum = 0;
-       for (int row = 0; row < length; row++ )
+       for (int i = 0; i < length; i++ )
        {
-        sum=sum+array[row, col];
+        sum=sum+array[i, j];
        }
-       a = (sum/length);
-       Console.Write($"{a}   ");
+        sum = Math.Round((sum/length), 2);
+       Console.Write($"{sum}   ");
     }
 }
